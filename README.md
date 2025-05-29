@@ -9,3 +9,4 @@ Este repositório contém documentação e exemplos práticos sobre o uso do Git
 - [Murilo Joaquim](https://github.com/murilosj7)
 - [Guilherme Ananias](https://github.com/guiiananias)
 - [João Marques](https://github.com/joaomarques00)
+- [Thiago Santos](https://github.com/thiago105)
