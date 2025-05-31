@@ -4,9 +4,9 @@
 Este repositório contém documentação e exemplos práticos sobre o uso do Git e GitHub para trabalho colaborativo.
 
 ## Autores
-- [André Luiz](https://github.com/YooDxE3)
-- [Eduardo Santos](https://github.com/edusantzz)
+- [André Luiz](https://github.com/YooDxE3) Repositorio = 
+- [Eduardo Santos](https://github.com/edusantzz) Repositorio = 
 - [Murilo Joaquim](https://github.com/murilosj7) Repositorio = [Instalação e Configuração](https://github.com/YooDxE3/manual-git-grupo-2/blob/main/instalacao-configuracoes.md)
-- [Guilherme Ananias](https://github.com/guiiananias)
-- [João Marques](https://github.com/joaomarques00)
-- [Thiago Santos](https://github.com/thiago105)
+- [Guilherme Ananias](https://github.com/guiiananias) Repositorio = 
+- [João Marques](https://github.com/joaomarques00) Repositorio = 
+- [Thiago Santos](https://github.com/thiago105) Responsavel pelas imagens 
