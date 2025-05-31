@@ -5,7 +5,7 @@ Este repositório contém documentação e exemplos práticos sobre o uso do Git
 
 ## Autores
 - [André Luiz](https://github.com/YooDxE3) Repositorio = 
-- [Eduardo Santos](https://github.com/edusantzz) Repositorio = 
+- [Eduardo Santos](https://github.com/edusantzz) Repositorio = [Branches e Merge](https://github.com/YooDxE3/manual-git-grupo-2/blob/main/ramificacoes-merge.md)
 - [Murilo Joaquim](https://github.com/murilosj7) Repositorio = [Instalação e Configuração](https://github.com/YooDxE3/manual-git-grupo-2/blob/main/instalacao-configuracoes.md)
 - [Guilherme Ananias](https://github.com/guiiananias) Repositorio = [Pull Request](https://github.com/YooDxE3/manual-git-grupo-2/blob/main/pullRequest.md)
 - [João Marques](https://github.com/joaomarques00) Repositorio = 
