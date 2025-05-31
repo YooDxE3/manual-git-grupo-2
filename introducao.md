@@ -19,7 +19,3 @@ O Git foi criado por **Linus Torvalds** em 2005 para gerenciar o desenvolvimento
 ## Diferença entre Git e GitHub
 - **Git:** Ferramenta de controle de versão local que organiza e registra alterações nos arquivos do projeto.
 - **GitHub:** Plataforma baseada na web para armazenar e compartilhar repositórios Git, com ferramentas para colaboração em equipe.
-
----
-
-Este módulo oferece uma visão geral do Git e do controle de versão, preparando o terreno para explorar os comandos e práticas fundamentais no desenvolvimento colaborativo.
